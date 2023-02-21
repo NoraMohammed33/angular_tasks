@@ -1,0 +1,1 @@
+export const Massage='hello'
